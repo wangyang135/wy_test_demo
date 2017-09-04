@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EduTest:war">
+    <output-path>E:/EduTest/target</output-path>
+    <root id="archive" name="EduTest.war">
+      <element id="artifact" artifact-name="EduTest:war exploded" />
+    </root>
+  </artifact>
+</component>

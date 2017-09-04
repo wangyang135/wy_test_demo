@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DoDo" />
+        <module name="EduTest" />
+        <module name="TODO" />
+        <module name="UrlCode" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DoDo" target="1.5" />
+      <module name="EduTest" target="1.5" />
+      <module name="ParentTest" target="1.5" />
+      <module name="TODO" target="1.5" />
+      <module name="UrlCode" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

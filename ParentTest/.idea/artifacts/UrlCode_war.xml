@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="UrlCode:war">
+    <output-path>E:/UrlCode/target</output-path>
+    <root id="archive" name="UrlCode.war">
+      <element id="artifact" artifact-name="UrlCode:war exploded" />
+    </root>
+  </artifact>
+</component>
